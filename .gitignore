@@ -1,0 +1,8 @@
+www/*
+www-front/*
+docker/web/composer-cache/*
+docker/db/data/*
+ssl-certs/*
+
+!/**/.gitkeep
+db-dumps/*.sql.gz
